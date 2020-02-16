@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 from tqdm import tqdm
-from .mk import *
+from source codes.mk import *
         
         
 #Create ped format file 

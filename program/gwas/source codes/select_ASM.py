@@ -1,9 +1,9 @@
 #-*- coding:utf-*-
 import pandas as pd
 from tqdm import tqdm
-from .pwl import PWL
-from .adjust_p_value import *
-from .mk import *
+from source codes.pwl import PWL
+from source codes.adjust_p_value import *
+from source codes.mk import *
         
 def select_signal(columns):
     new_clumns=[]

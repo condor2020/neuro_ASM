@@ -1,7 +1,7 @@
 #-*- coding:utf-8 -*-
 import pandas as pd
 import numpy as np
-from .mk import *
+from source codes.mk import *
         
 #Complete the extraction of genotype of different disease types
 def genotype(input_file_name,output_file_name):

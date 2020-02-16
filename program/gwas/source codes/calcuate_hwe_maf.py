@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from scipy.stats import chisquare
 from tqdm import tqdm
-from .mk import *
+from source codes.mk import *
         
         
 #Calculate HWE and MAF

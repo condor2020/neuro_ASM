@@ -1,8 +1,8 @@
 #-*- coding:utf-8 -*-
 import pandas as pd
 import numpy as np
-from .sva import *
-from .mk import *
+from source codes.sva import *
+from source codes.mk import *
 
 #Calculate the importance of each site
 data=pd.read_csv(u"../amplify/amplify_all.csv")

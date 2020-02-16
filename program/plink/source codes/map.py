@@ -1,7 +1,7 @@
 #-*- coding:utf-8 -*-
 import pandas as pd
 import numpy as np
-from .mk import *
+from source codes.mk import *
         
 #Create map format file and map information
 def project_GPL(ASM_SNP,outputfilename):

@@ -1,7 +1,7 @@
 #-*- coding:utf-8 -*-
 import pandas as pd
 from tqdm import tqdm
-from .mk import *
+from source codes.mk import *
         
 #Transformation of Plink result file
 def conver_ld2csv(data):

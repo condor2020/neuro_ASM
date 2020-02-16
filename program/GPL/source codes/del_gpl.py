@@ -1,7 +1,7 @@
 #-*- coding:utf-8 -*-
 import pandas as pd
 import numpy as np
-from .mk import mkdir
+from source codes.mk import mkdir
 
 #Process SNP ID mapping table
 data=pd.read_table(u"../data/GPL6801-4019.txt",encoding=u"gbk",sep="\t",low_memory=False)

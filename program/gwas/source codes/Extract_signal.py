@@ -1,6 +1,6 @@
 #-*- coding:utf-8 -*-
 import pandas as pd
-from .mk import *
+from source codes.mk import *
         
 #Complete the extraction of methy signal of different disease types
 def signal(input_file_name,output_file_name):

@@ -1,7 +1,7 @@
 import pandas as pd
 from tqdm import tqdm
 import numpy as np
-from .mk import *
+from source codes.mk import *
 
 #Screening suitable linkage disequilibrium
 def select_snp(data,percent):

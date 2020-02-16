@@ -1,7 +1,7 @@
 #-*- coding:utf-8 -*-
 import pandas as pd
 import numpy as np
-from .mk import *
+from source codes.mk import *
 # Amplify signal strength of all sites
 data=pd.read_csv(u"../all_signal/all_signal.csv")
 

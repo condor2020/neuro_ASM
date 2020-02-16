@@ -1,6 +1,6 @@
 #-*- coding:utf-8 -*-
 import pandas as pd
-from .mk import *
+from source codes.mk import *
 
 GPL=pd.read_csv(u"../../GPL/GPL/GPL.csv",encoding="gbk",low_memory=False)
 
